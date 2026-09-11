@@ -1,5 +1,6 @@
 import './style.css'
-import './TemasTS/06-importar-exportar.ts'
+import './TemasTS/07-clases'
+//import './TemasTS/06-importar-exportar.ts'
 //import './TemasTS/05-desestructuracion-funciones'
 //import './TemasTS/04-desestructuracion-obj-arre'
 //import './TemasTS/01-tipos-bas'
